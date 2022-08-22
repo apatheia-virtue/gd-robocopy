@@ -4,14 +4,14 @@
 @REM "/_out/.hip*" # except backup
 
 
-@REM ikoon
+@REM ikoon 2
 @REM ----------     destination: git     --------------
 @REM "/_out/.mp4"
 @REM "/_out/.aep"  
 @REM "/_out/.hip*" # except backup
 
 
-@REM ikoon
+@REM ikoon 2
 @REM ----------           folders        --------------
 @REM flip
 @REM kinefx
